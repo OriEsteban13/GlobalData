@@ -35,7 +35,6 @@ export default function AnalyticsVisual() {
         {BARS.map((b, i) => {
           const x = 18 + i * 34;
           const maxH = 100;
-          const barH = inView ? (b.height / 100) * maxH : 0;
           return (
             <motion.rect
               key={i}

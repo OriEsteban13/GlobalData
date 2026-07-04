@@ -43,7 +43,7 @@ export default function Team({ title }: { title: string }) {
             {title}
           </h2>
           <p className="max-w-md text-sm text-text-muted">
-            Un equip multidisciplinari amb més de 8 anys d'experiència en patrocini esportiu, business intelligence i innovació en processos de dades.
+            Un equip multidisciplinari amb més de 8 anys d&apos;experiència en patrocini esportiu, business intelligence i innovació en processos de dades.
           </p>
         </div>
 
