@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "title": "Global Data 468 — Analyze, Optimize, Grow",
+    "description": "Empresa andorrana de análisis de datos y consultoría de patrocinio. Convertimos datos en decisiones, y decisiones en crecimiento."
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "cases": "Casos",
+    "contact": "Contacto"
+  },
+  "header": {
+    "cta": "Contacto"
+  },
+  "hero": {
+    "tagline": "Analyze, Optimize, Grow",
+    "subtitle": "Convertimos datos complejos en decisiones claras para marcas, patrocinadores y propiedades deportivas y culturales de todo el mundo.",
+    "ctaPrimary": "Nuestros servicios",
+    "ctaSecondary": "Contactar"
+  },
+  "stats": {
+    "global": { "label": "Alcance Internacional", "desc": "Deporte · Cultura · Moda · Instituciones" },
+    "senior": { "label": "Equipo Sénior", "desc": "Experiencia consolidada en patrocinio y datos" },
+    "method": { "label": "Metodología Propia", "desc": "Procesos estructurados y resultados medibles" },
+    "trust":  { "label": "Confidencialidad Total", "desc": "Discreción y rigor en cada proyecto" }
+  },
+  "services": {
+    "title": "Servicios",
+    "subtitle": "Tres áreas, un mismo objetivo: decisiones basadas en datos.",
+    "analytics": {
+      "title": "Data Analytics",
+      "description": "Business intelligence, dashboards en tiempo real, informes de mercado y modelado predictivo para anticipar tendencias."
+    },
+    "extraction": {
+      "title": "Data Extraction",
+      "description": "Scraping ético, integración de APIs deportivas y culturales y pipelines de datos robustos y escalables."
+    },
+    "sponsorship": {
+      "title": "Sponsorship Consulting",
+      "description": "Búsqueda de patrocinadores para propiedades, búsqueda de propiedades para marcas, valoración de activos y seguimiento de ROI."
+    },
+    "formation": {
+      "title": "Formación",
+      "description": "Programas formativos en marketing de patrocinio y cálculo del retorno de la inversión para marcas, propiedades, clubs y administraciones públicas."
+    },
+    "market": {
+      "title": "Estudios de Mercado",
+      "description": "Análisis de recuerdo de marca, notoriedad y opinión online y offline para marcas, propiedades deportivas, clubs e instituciones."
+    },
+    "strategy": {
+      "title": "Consultoría & Transformación Digital",
+      "description": "Acompañamos organizaciones en su evolución estratégica y digital: desde el diagnóstico hasta la implementación de soluciones que impulsan el crecimiento."
+    },
+    "cta": "Saber más"
+  },
+  "methodology": {
+    "title": "Cómo trabajamos",
+    "subtitle": "Un proceso claro, estructurado y orientado a resultados.",
+    "analyze": {
+      "step": "01",
+      "title": "Analizamos",
+      "description": "Recogemos datos, ejecutamos estudios de mercado y activamos la inteligencia de negocio para entender en profundidad cada reto."
+    },
+    "optimize": {
+      "step": "02",
+      "title": "Optimizamos",
+      "description": "Diseñamos la estrategia, identificamos oportunidades de patrocinio y alineamos marca y propiedad para maximizar el valor."
+    },
+    "grow": {
+      "step": "03",
+      "title": "Crecemos",
+      "description": "Acompañamos la implementación, medimos el ROI y garantizamos que cada decisión se traduzca en crecimiento real y medible."
+    }
+  },
+  "finalCta": {
+    "title": "¿Listos para optimizar vuestro crecimiento?",
+    "subtitle": "Hablemos de cómo los datos pueden transformar vuestra estrategia.",
+    "button": "Empecemos"
+  },
+  "servicesPage": {
+    "title": "Servicios",
+    "subtitle": "Soluciones de datos y consultoría de patrocinio de principio a fin.",
+    "analytics": {
+      "title": "Data Analytics",
+      "description": "Transformamos datos crudos en inteligencia de negocio accionable.",
+      "items": [
+        "Business Intelligence y dashboards interactivos",
+        "Informes de mercado sectoriales",
+        "Modelado predictivo y forecasting",
+        "Análisis de rendimiento y KPIs personalizados"
+      ]
+    },
+    "extraction": {
+      "title": "Data Extraction",
+      "description": "Capturamos y estructuramos datos de cualquier fuente de forma ética y fiable.",
+      "items": [
+        "Web scraping ético y compliant",
+        "Integración de APIs deportivas y culturales",
+        "Pipelines de datos automatizados",
+        "Limpieza, normalización y enriquecimiento de datos"
+      ]
+    },
+    "sponsorship": {
+      "title": "Consultoría de Patrocinio",
+      "description": "Conectamos marcas y propiedades con estrategia basada en datos.",
+      "items": [
+        "Búsqueda de patrocinadores para propiedades deportivas y culturales",
+        "Búsqueda de propiedades alineadas con los valores de la marca",
+        "Valoración de activos de patrocinio",
+        "Seguimiento y optimización de ROI"
+      ]
+    },
+    "formation": {
+      "title": "Formación en Patrocinio y ROI",
+      "description": "Capacitamos equipos y organizaciones para tomar decisiones de patrocinio basadas en datos y medir su retorno real.",
+      "items": [
+        "Marketing de patrocinio: estrategia y activación",
+        "Cálculo del ROI para marcas patrocinadoras",
+        "Medición del valor para propiedades y clubs deportivos",
+        "Talleres para administraciones públicas e instituciones culturales",
+        "Workshops presenciales y online, adaptados a cada perfil"
+      ]
+    },
+    "market": {
+      "title": "Estudios de Mercado Online y Offline",
+      "description": "Diseñamos y ejecutamos estudios de mercado cuantitativos y cualitativos para medir la notoriedad, el recuerdo y la percepción de marca en entornos digitales y presenciales.",
+      "items": [
+        "Análisis de recuerdo espontáneo y sugerido de marca",
+        "Estudios de notoriedad online (paneles digitales, redes sociales)",
+        "Estudios offline: encuestas presenciales, focus groups, entrevistas",
+        "Medición de la percepción y posicionamiento de marca",
+        "Informes periódicos de evolución de imagen para clubs, propiedades e instituciones"
+      ]
+    },
+    "strategy": {
+      "title": "Consultoría Estratégica & Transformación Digital",
+      "description": "Acompañamos organizaciones deportivas, culturales e institucionales en su evolución estratégica y digitalización de procesos, con un enfoque práctico y orientado a resultados.",
+      "items": [
+        "Diagnóstico estratégico y definición de modelo de negocio",
+        "Digitalización de procesos operativos y de reporting",
+        "Implementación de herramientas de gestión y plataformas de datos",
+        "Diversificación de ingresos para clubs, propiedades e instituciones",
+        "Acompañamiento ejecutivo en procesos de cambio y crecimiento"
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "Nosotros",
+    "subtitle": "Una década conectando datos con decisiones.",
+    "timeline": {
+      "title": "Nuestra historia"
+    },
+    "team": {
+      "title": "Equipo"
+    },
+    "values": {
+      "title": "Valores",
+      "rigor": { "title": "Rigor", "description": "Precisión y metodología en cada análisis." },
+      "innovation": { "title": "Innovación", "description": "Adoptamos las últimas tecnologías de datos." },
+      "confidentiality": { "title": "Confidencialidad", "description": "Protegemos la información de nuestros clientes." },
+      "results": { "title": "Resultados", "description": "Medimos el éxito en impacto real." }
+    }
+  },
+  "casesPage": {
+    "title": "Casos de éxito",
+    "subtitle": "Resultados reales para marcas y propiedades de todo el mundo.",
+    "filters": {
+      "all": "Todos",
+      "sport": "Deporte",
+      "culture": "Cultura & Música",
+      "fashion": "Moda",
+      "public": "Administraciones Públicas"
+    }
+  },
+  "contactPage": {
+    "title": "Contacto",
+    "subtitle": "Hablemos de vuestro próximo proyecto.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "company": "Empresa",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "success": "¡Mensaje enviado correctamente!"
+    },
+    "info": {
+      "address": "Dirección",
+      "phone": "Teléfono",
+      "email": "Correo"
+    }
+  },
+  "footer": {
+    "tagline": "Analyze, Optimize, Grow",
+    "rights": "Todos los derechos reservados",
+    "location": "Andorra la Vella, Principado de Andorra",
+    "privacy": "Política de privacidad",
+    "gdpr": "RGPD"
+  }
+}

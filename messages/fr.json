@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "title": "Global Data 468 — Analyze, Optimize, Grow",
+    "description": "Entreprise andorrane d'analyse de données et de conseil en sponsoring. Nous transformons les données en décisions, et les décisions en croissance."
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "cases": "Études de cas",
+    "contact": "Contact"
+  },
+  "header": {
+    "cta": "Contact"
+  },
+  "hero": {
+    "tagline": "Analyze, Optimize, Grow",
+    "subtitle": "Nous transformons des données complexes en décisions claires pour les marques, sponsors et propriétés sportives et culturelles du monde entier.",
+    "ctaPrimary": "Nos services",
+    "ctaSecondary": "Nous contacter"
+  },
+  "stats": {
+    "global": { "label": "Portée Internationale", "desc": "Sport · Culture · Mode · Institutions" },
+    "senior": { "label": "Équipe Sénior", "desc": "Expertise consolidée en sponsoring et données" },
+    "method": { "label": "Méthodologie Propre", "desc": "Processus structurés et résultats mesurables" },
+    "trust":  { "label": "Confidentialité Totale", "desc": "Discrétion et rigueur dans chaque projet" }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Trois domaines, un seul objectif : des décisions fondées sur les données.",
+    "analytics": {
+      "title": "Data Analytics",
+      "description": "Business intelligence, tableaux de bord en temps réel, rapports de marché et modélisation prédictive pour anticiper les tendances."
+    },
+    "extraction": {
+      "title": "Data Extraction",
+      "description": "Scraping éthique, intégration d'API sportives et culturelles, et pipelines de données robustes et évolutifs."
+    },
+    "sponsorship": {
+      "title": "Sponsorship Consulting",
+      "description": "Recherche de sponsors pour propriétés, recherche de propriétés pour marques, valorisation d'actifs et suivi du ROI."
+    },
+    "formation": {
+      "title": "Formation",
+      "description": "Programmes de formation en marketing du sponsoring et calcul du retour sur investissement pour marques, propriétés, clubs et administrations publiques."
+    },
+    "market": {
+      "title": "Études de Marché",
+      "description": "Études de notoriété, de rappel de marque et de perception online et offline pour marques, propriétés sportives, clubs et institutions."
+    },
+    "strategy": {
+      "title": "Conseil & Transformation Digitale",
+      "description": "Nous accompagnons les organisations dans leur évolution stratégique et digitale, du diagnostic jusqu'à la mise en œuvre de solutions qui stimulent la croissance."
+    },
+    "cta": "En savoir plus"
+  },
+  "methodology": {
+    "title": "Comment nous travaillons",
+    "subtitle": "Un processus clair, structuré et axé sur les résultats.",
+    "analyze": {
+      "step": "01",
+      "title": "Analysons",
+      "description": "Nous collectons des données, réalisons des études de marché et activons l'intelligence d'affaires pour comprendre chaque défi en profondeur."
+    },
+    "optimize": {
+      "step": "02",
+      "title": "Optimisons",
+      "description": "Nous concevons la stratégie, identifions les opportunités de sponsoring et alignons marque et propriété pour maximiser la valeur."
+    },
+    "grow": {
+      "step": "03",
+      "title": "Croissons",
+      "description": "Nous accompagnons la mise en œuvre, mesurons le ROI et veillons à ce que chaque décision se traduise par une croissance réelle et mesurable."
+    }
+  },
+  "finalCta": {
+    "title": "Prêts à optimiser votre croissance ?",
+    "subtitle": "Parlons de la façon dont les données peuvent transformer votre stratégie.",
+    "button": "Commençons"
+  },
+  "servicesPage": {
+    "title": "Services",
+    "subtitle": "Solutions de données et conseil en sponsoring de bout en bout.",
+    "analytics": {
+      "title": "Data Analytics",
+      "description": "Nous transformons les données brutes en intelligence d'affaires exploitable.",
+      "items": [
+        "Business Intelligence et tableaux de bord interactifs",
+        "Rapports de marché sectoriels",
+        "Modélisation prédictive et forecasting",
+        "Analyse de performance et KPI personnalisés"
+      ]
+    },
+    "extraction": {
+      "title": "Data Extraction",
+      "description": "Nous capturons et structurons les données de toute source, de manière éthique et fiable.",
+      "items": [
+        "Web scraping éthique et conforme",
+        "Intégration d'API sportives et culturelles",
+        "Pipelines de données automatisés",
+        "Nettoyage, normalisation et enrichissement des données"
+      ]
+    },
+    "sponsorship": {
+      "title": "Conseil en Sponsoring",
+      "description": "Nous connectons marques et propriétés grâce à une stratégie fondée sur les données.",
+      "items": [
+        "Recherche de sponsors pour propriétés sportives et culturelles",
+        "Recherche de propriétés alignées avec les valeurs de la marque",
+        "Valorisation des actifs de sponsoring",
+        "Suivi et optimisation du ROI"
+      ]
+    },
+    "formation": {
+      "title": "Formation Sponsoring & ROI",
+      "description": "Nous formons les équipes et organisations pour prendre des décisions de sponsoring basées sur les données et mesurer leur retour réel.",
+      "items": [
+        "Marketing du sponsoring : stratégie et activation",
+        "Calcul du ROI pour les marques sponsors",
+        "Mesure de la valeur pour les propriétés et clubs sportifs",
+        "Ateliers pour administrations publiques et institutions culturelles",
+        "Formats présentiel et en ligne, adaptés à chaque profil"
+      ]
+    },
+    "market": {
+      "title": "Études de Marché Online & Offline",
+      "description": "Nous concevons et réalisons des études de marché quantitatives et qualitatives pour mesurer la notoriété, le rappel et la perception de marque en environnements numériques et présentiel.",
+      "items": [
+        "Analyse du rappel spontané et assisté de marque",
+        "Études de notoriété en ligne (panels digitaux, réseaux sociaux)",
+        "Études offline : enquêtes en face-à-face, focus groups, entretiens",
+        "Mesure de la perception et du positionnement de marque",
+        "Rapports périodiques d'évolution d'image pour clubs, propriétés et institutions"
+      ]
+    },
+    "strategy": {
+      "title": "Conseil Stratégique & Transformation Digitale",
+      "description": "Nous accompagnons les organisations sportives, culturelles et institutionnelles dans leur évolution stratégique et la digitalisation de leurs processus, avec une approche pratique et orientée résultats.",
+      "items": [
+        "Diagnostic stratégique et définition du modèle d'affaires",
+        "Digitalisation des processus opérationnels et de reporting",
+        "Mise en œuvre d'outils de gestion et de plateformes de données",
+        "Diversification des revenus pour clubs, propriétés et institutions",
+        "Accompagnement exécutif dans les processus de changement et de croissance"
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "À propos",
+    "subtitle": "Une décennie à connecter données et décisions.",
+    "timeline": {
+      "title": "Notre histoire"
+    },
+    "team": {
+      "title": "Équipe"
+    },
+    "values": {
+      "title": "Valeurs",
+      "rigor": { "title": "Rigueur", "description": "Précision et méthodologie dans chaque analyse." },
+      "innovation": { "title": "Innovation", "description": "Nous adoptons les dernières technologies de données." },
+      "confidentiality": { "title": "Confidentialité", "description": "Nous protégeons les informations de nos clients." },
+      "results": { "title": "Résultats", "description": "Nous mesurons le succès par son impact réel." }
+    }
+  },
+  "casesPage": {
+    "title": "Études de cas",
+    "subtitle": "Des résultats concrets pour des marques et propriétés du monde entier.",
+    "filters": {
+      "all": "Tous",
+      "sport": "Sport",
+      "culture": "Culture & Musique",
+      "fashion": "Mode",
+      "public": "Secteur Public"
+    }
+  },
+  "contactPage": {
+    "title": "Contact",
+    "subtitle": "Parlons de votre prochain projet.",
+    "form": {
+      "name": "Nom",
+      "email": "E-mail",
+      "company": "Entreprise",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "success": "Message envoyé avec succès !"
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "E-mail"
+    }
+  },
+  "footer": {
+    "tagline": "Analyze, Optimize, Grow",
+    "rights": "Tous droits réservés",
+    "location": "Andorre-la-Vieille, Principauté d'Andorre",
+    "privacy": "Politique de confidentialité",
+    "gdpr": "RGPD"
+  }
+}

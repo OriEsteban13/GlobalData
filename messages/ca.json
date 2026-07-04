@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "title": "Global Data 468 — Analyze, Optimize, Grow",
+    "description": "Empresa andorrana d'anàlisi de dades i consultoria d'esponsorització. Convertim dades en decisions, i decisions en creixement."
+  },
+  "nav": {
+    "home": "Inici",
+    "services": "Serveis",
+    "about": "Nosaltres",
+    "cases": "Casos",
+    "contact": "Contacte"
+  },
+  "header": {
+    "cta": "Contacte"
+  },
+  "hero": {
+    "tagline": "Analyze, Optimize, Grow",
+    "subtitle": "Convertim dades complexes en decisions clares per a marques, patrocinadors i propietats esportives i culturals d'arreu del món.",
+    "ctaPrimary": "Els nostres serveis",
+    "ctaSecondary": "Contactar"
+  },
+  "stats": {
+    "global": { "label": "Abast Global", "desc": "Esport · Cultura · Moda · Institucions" },
+    "senior": { "label": "Equip Sènior", "desc": "Experiència consolidada en patrocini i dades" },
+    "method": { "label": "Metodologia Pròpia", "desc": "Processos estructurats i resultats mesurables" },
+    "trust":  { "label": "Confidencialitat Total", "desc": "Discreció i rigor en cada projecte" }
+  },
+  "services": {
+    "title": "Serveis",
+    "subtitle": "Tres àrees, un mateix objectiu: decisions basades en dades.",
+    "analytics": {
+      "title": "Data Analytics",
+      "description": "Business intelligence, dashboards en temps real, informes de mercat i modelatge predictiu per anticipar tendències."
+    },
+    "extraction": {
+      "title": "Data Extraction",
+      "description": "Scraping ètic, integració d'APIs esportives i culturals i pipelines de dades robustos i escalables."
+    },
+    "sponsorship": {
+      "title": "Sponsorship Consulting",
+      "description": "Cerca de patrocinadors per a propietats, cerca de propietats per a marques, valoració d'actius i seguiment de ROI."
+    },
+    "formation": {
+      "title": "Formació",
+      "description": "Programes formatius en màrqueting de patrocini i càlcul del retorn de la inversió per a marques, propietats, clubs i administracions públiques."
+    },
+    "market": {
+      "title": "Estudis de Mercat",
+      "description": "Anàlisi de record de marca, notorietat i opinió online i offline per a marques, propietats esportives, clubs i institucions."
+    },
+    "strategy": {
+      "title": "Consultoria & Transformació Digital",
+      "description": "Acompanyem organitzacions en la seva evolució estratègica i digital: des del diagnòstic fins a la implementació de solucions que impulsen el creixement."
+    },
+    "cta": "Saber-ne més"
+  },
+  "methodology": {
+    "title": "Com treballem",
+    "subtitle": "Un procés clar, estructurat i orientat a resultats.",
+    "analyze": {
+      "step": "01",
+      "title": "Analitzem",
+      "description": "Recollim dades, executem estudis de mercat i activem la intel·ligència de negoci per entendre en profunditat cada repte."
+    },
+    "optimize": {
+      "step": "02",
+      "title": "Optimitzem",
+      "description": "Dissenyem l'estratègia, identifiquem oportunitats de patrocini i alineiem marca i propietat per maximitzar el valor."
+    },
+    "grow": {
+      "step": "03",
+      "title": "Creixem",
+      "description": "Acompanyem la implementació, mesurem el ROI i garantim que cada decisió es tradueixi en creixement real i mesurable."
+    }
+  },
+  "finalCta": {
+    "title": "Preparats per optimitzar el vostre creixement?",
+    "subtitle": "Parlem de com les dades poden transformar la vostra estratègia.",
+    "button": "Comencem"
+  },
+  "servicesPage": {
+    "title": "Serveis",
+    "subtitle": "Solucions de dades i consultoria d'esponsorització de cap a cap.",
+    "analytics": {
+      "title": "Data Analytics",
+      "description": "Transformem dades crues en intel·ligència de negoci accionable.",
+      "items": [
+        "Business Intelligence i dashboards interactius",
+        "Informes de mercat sectorials",
+        "Modelatge predictiu i forecasting",
+        "Anàlisi de rendiment i KPIs personalitzats"
+      ]
+    },
+    "extraction": {
+      "title": "Data Extraction",
+      "description": "Capturem i estructurem dades de qualsevol font de manera ètica i fiable.",
+      "items": [
+        "Web scraping ètic i compliant",
+        "Integració d'APIs esportives i culturals",
+        "Pipelines de dades automatitzats",
+        "Neteja, normalització i enriquiment de dades"
+      ]
+    },
+    "sponsorship": {
+      "title": "Consultoria de Patrocini",
+      "description": "Connectem marques i propietats amb estratègia basada en dades.",
+      "items": [
+        "Cerca de patrocinadors per a propietats esportives i culturals",
+        "Cerca de propietats alineades amb els valors de la marca",
+        "Valoració d'actius de patrocini",
+        "Seguiment i optimització de ROI"
+      ]
+    },
+    "formation": {
+      "title": "Formació en Patrocini i ROI",
+      "description": "Capacitem equips i organitzacions per prendre decisions de patrocini basades en dades i mesurar-ne el retorn real.",
+      "items": [
+        "Màrqueting de patrocini: estratègia i activació",
+        "Càlcul del ROI per a marques patrocinadores",
+        "Mesura del valor per a propietats i clubs esportius",
+        "Tallers per a administracions públiques i institucions culturals",
+        "Workshops presencials i en línia, adaptats a cada perfil"
+      ]
+    },
+    "market": {
+      "title": "Estudis de Mercat Online i Offline",
+      "description": "Dissenyem i executem estudis de mercat quantitatius i qualitatius per mesurar la notorietat, el record i la percepció de marca en entorns digitals i presencials.",
+      "items": [
+        "Anàlisi de record espontani i suggerit de marca",
+        "Estudis de notorietat online (panells digitals, xarxes socials)",
+        "Estudis offline: enquestes presencials, focus groups, entrevistes",
+        "Mesura de la percepció i posicionament de marca",
+        "Informes periòdics d'evolució d'imatge per a clubs, propietats i institucions"
+      ]
+    },
+    "strategy": {
+      "title": "Consultoria Estratègica & Transformació Digital",
+      "description": "Acompanyem organitzacions esportives, culturals i institucionals en la seva evolució estratègica i digitalització de processos, amb un enfocament pràctic i orientat a resultats.",
+      "items": [
+        "Diagnòstic estratègic i definició de model de negoci",
+        "Digitalització de processos operatius i de reporting",
+        "Implementació d'eines de gestió i plataformes de dades",
+        "Diversificació d'ingressos per a clubs, propietats i institucions",
+        "Acompanyament executiu en processos de canvi i creixement"
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "Nosaltres",
+    "subtitle": "Una dècada connectant dades amb decisions.",
+    "timeline": {
+      "title": "La nostra història"
+    },
+    "team": {
+      "title": "Equip"
+    },
+    "values": {
+      "title": "Valors",
+      "rigor": { "title": "Rigor", "description": "Precisió i metodologia en cada anàlisi." },
+      "innovation": { "title": "Innovació", "description": "Adoptem les últimes tecnologies de dades." },
+      "confidentiality": { "title": "Confidencialitat", "description": "Protegim la informació dels nostres clients." },
+      "results": { "title": "Resultats", "description": "Mesurem l'èxit en impacte real." }
+    }
+  },
+  "casesPage": {
+    "title": "Casos d'èxit",
+    "subtitle": "Resultats reals per a marques i propietats d'arreu del món.",
+    "filters": {
+      "all": "Tots",
+      "sport": "Esport",
+      "culture": "Cultura & Música",
+      "fashion": "Moda",
+      "public": "Administracions Públiques"
+    }
+  },
+  "contactPage": {
+    "title": "Contacte",
+    "subtitle": "Parlem del vostre proper projecte.",
+    "form": {
+      "name": "Nom",
+      "email": "Correu electrònic",
+      "company": "Empresa",
+      "message": "Missatge",
+      "submit": "Enviar missatge",
+      "success": "Missatge enviat correctament!"
+    },
+    "info": {
+      "address": "Adreça",
+      "phone": "Telèfon",
+      "email": "Correu"
+    }
+  },
+  "footer": {
+    "tagline": "Analyze, Optimize, Grow",
+    "rights": "Tots els drets reservats",
+    "location": "Andorra la Vella, Principat d'Andorra",
+    "privacy": "Política de privacitat",
+    "gdpr": "RGPD"
+  }
+}

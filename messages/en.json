@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "title": "Global Data 468 — Analyze, Optimize, Grow",
+    "description": "Andorran data analytics and sponsorship consulting firm. We turn data into decisions, and decisions into growth."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "cases": "Case Studies",
+    "contact": "Contact"
+  },
+  "header": {
+    "cta": "Contact"
+  },
+  "hero": {
+    "tagline": "Analyze, Optimize, Grow",
+    "subtitle": "We turn complex data into clear decisions for brands, sponsors and sports and cultural properties worldwide.",
+    "ctaPrimary": "Our Services",
+    "ctaSecondary": "Get in touch"
+  },
+  "stats": {
+    "global": { "label": "International Reach", "desc": "Sport · Culture · Fashion · Institutions" },
+    "senior": { "label": "Senior Team", "desc": "Consolidated expertise in sponsorship and data" },
+    "method": { "label": "Own Methodology", "desc": "Structured processes and measurable results" },
+    "trust":  { "label": "Full Confidentiality", "desc": "Discretion and rigour in every project" }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Three areas, one goal: data-driven decisions.",
+    "analytics": {
+      "title": "Data Analytics",
+      "description": "Business intelligence, real-time dashboards, market reports and predictive modeling to anticipate trends."
+    },
+    "extraction": {
+      "title": "Data Extraction",
+      "description": "Ethical scraping, sports and cultural API integrations, and robust, scalable data pipelines."
+    },
+    "sponsorship": {
+      "title": "Sponsorship Consulting",
+      "description": "Sponsor search for properties, property search for brands, asset valuation and ROI tracking."
+    },
+    "formation": {
+      "title": "Training",
+      "description": "Training programmes in sponsorship marketing and ROI measurement for brands, properties, clubs and public administrations."
+    },
+    "market": {
+      "title": "Market Research",
+      "description": "Online and offline brand awareness, recall and perception studies for brands, sports properties, clubs and institutions."
+    },
+    "strategy": {
+      "title": "Strategy & Digital Transformation",
+      "description": "We guide organisations through their strategic evolution and digital transformation, from diagnosis to implementation of solutions that drive growth."
+    },
+    "cta": "Learn more"
+  },
+  "methodology": {
+    "title": "How we work",
+    "subtitle": "A clear, structured process focused on results.",
+    "analyze": {
+      "step": "01",
+      "title": "Analyze",
+      "description": "We collect data, run market studies and activate business intelligence to deeply understand every challenge."
+    },
+    "optimize": {
+      "step": "02",
+      "title": "Optimize",
+      "description": "We design the strategy, identify sponsorship opportunities and align brand and property to maximise value."
+    },
+    "grow": {
+      "step": "03",
+      "title": "Grow",
+      "description": "We support implementation, measure ROI and ensure every decision translates into real, measurable growth."
+    }
+  },
+  "finalCta": {
+    "title": "Ready to optimize your growth?",
+    "subtitle": "Let's talk about how data can transform your strategy.",
+    "button": "Let's start"
+  },
+  "servicesPage": {
+    "title": "Services",
+    "subtitle": "End-to-end data solutions and sponsorship consulting.",
+    "analytics": {
+      "title": "Data Analytics",
+      "description": "We turn raw data into actionable business intelligence.",
+      "items": [
+        "Business Intelligence and interactive dashboards",
+        "Sector market reports",
+        "Predictive modeling and forecasting",
+        "Performance analysis and custom KPIs"
+      ]
+    },
+    "extraction": {
+      "title": "Data Extraction",
+      "description": "We capture and structure data from any source, ethically and reliably.",
+      "items": [
+        "Ethical, compliant web scraping",
+        "Sports and cultural API integrations",
+        "Automated data pipelines",
+        "Data cleaning, normalization and enrichment"
+      ]
+    },
+    "sponsorship": {
+      "title": "Sponsorship Consulting",
+      "description": "We connect brands and properties through data-driven strategy.",
+      "items": [
+        "Sponsor search for sports and cultural properties",
+        "Property search aligned with brand values",
+        "Sponsorship asset valuation",
+        "ROI tracking and optimization"
+      ]
+    },
+    "formation": {
+      "title": "Sponsorship & ROI Training",
+      "description": "We train teams and organisations to make data-driven sponsorship decisions and measure their real return.",
+      "items": [
+        "Sponsorship marketing: strategy and activation",
+        "ROI calculation for sponsoring brands",
+        "Value measurement for properties and sports clubs",
+        "Workshops for public administrations and cultural institutions",
+        "In-person and online formats, tailored to each profile"
+      ]
+    },
+    "market": {
+      "title": "Online & Offline Market Research",
+      "description": "We design and run quantitative and qualitative market studies to measure brand awareness, recall and perception in digital and in-person settings.",
+      "items": [
+        "Spontaneous and prompted brand recall analysis",
+        "Online awareness studies (digital panels, social media)",
+        "Offline research: in-person surveys, focus groups, interviews",
+        "Brand perception and positioning measurement",
+        "Periodic image-tracking reports for clubs, properties and institutions"
+      ]
+    },
+    "strategy": {
+      "title": "Strategic Consulting & Digital Transformation",
+      "description": "We accompany sports, cultural and institutional organisations through their strategic evolution and process digitalisation, with a practical, results-driven approach.",
+      "items": [
+        "Strategic diagnosis and business model definition",
+        "Digitalisation of operational and reporting processes",
+        "Implementation of management tools and data platforms",
+        "Revenue diversification for clubs, properties and institutions",
+        "Executive support through change and growth processes"
+      ]
+    }
+  },
+  "aboutPage": {
+    "title": "About Us",
+    "subtitle": "A decade connecting data with decisions.",
+    "timeline": {
+      "title": "Our story"
+    },
+    "team": {
+      "title": "Team"
+    },
+    "values": {
+      "title": "Values",
+      "rigor": { "title": "Rigor", "description": "Precision and methodology in every analysis." },
+      "innovation": { "title": "Innovation", "description": "We adopt the latest data technologies." },
+      "confidentiality": { "title": "Confidentiality", "description": "We protect our clients' information." },
+      "results": { "title": "Results", "description": "We measure success in real impact." }
+    }
+  },
+  "casesPage": {
+    "title": "Case Studies",
+    "subtitle": "Real results for brands and properties worldwide.",
+    "filters": {
+      "all": "All",
+      "sport": "Sport",
+      "culture": "Culture & Music",
+      "fashion": "Fashion",
+      "public": "Public Sector"
+    }
+  },
+  "contactPage": {
+    "title": "Contact",
+    "subtitle": "Let's talk about your next project.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send message",
+      "success": "Message sent successfully!"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email"
+    }
+  },
+  "footer": {
+    "tagline": "Analyze, Optimize, Grow",
+    "rights": "All rights reserved",
+    "location": "Andorra la Vella, Principality of Andorra",
+    "privacy": "Privacy Policy",
+    "gdpr": "GDPR"
+  }
+}
